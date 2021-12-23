@@ -1,4 +1,5 @@
 # Hands-on Lab: Deploy Your Django App on IBM Cloud Foundry
+visit sample url here : https://patpicha111.eu-gb.cf.appdomain.cloud/onlinecourse/
 Learning Objectives
 Understand how to prepare your Django app for Cloud Foundry Deployment
 Deploy your app on IBM Cloud Foundry
